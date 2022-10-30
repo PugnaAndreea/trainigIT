@@ -1,0 +1,29 @@
+.navigation {
+    display: flex;
+    justify-content: space-between;
+}
+.logo {
+    width: 50px;
+    height: 50px;
+}
+.hero {
+    width: 100vw;
+    height: 80vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: rgb(40, 40, 40);
+    margin: 0;
+}
+.card-container {
+    display: flex;
+    justify-content: space-between;
+}
+.card {
+    text-align: center;
+    margin: auto;
+}
+.card-image{
+    border-radius: 20px;
+}
